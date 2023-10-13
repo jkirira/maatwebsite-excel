@@ -1,5 +1,5 @@
 {
-  "name": "maatwebsite/excel",
+  "name": "jkirira/maatwebsite-excel",
   "description": "Supercharged Excel exports and imports in Laravel",
   "license": "MIT",
   "keywords": [
@@ -13,12 +13,7 @@
     "import",
     "batch"
   ],
-  "authors": [
-    {
-      "name": "Patrick Brouwers",
-      "email": "patrick@spartner.nl"
-    }
-  ],
+  "authors": [],
   "require": {
     "ext-json": "*",
     "php": "^7.0|^8.0",
